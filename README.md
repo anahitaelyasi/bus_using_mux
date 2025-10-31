@@ -10,6 +10,3 @@ Each bit of the bus is implemented using a 4×1 multiplexer, allowing one of the
 -Four 4-bit registers: A, B, C, and D
 -A 4-line common bus that transfers data between registers
 -Multiplexer-based selection logic controlled by select lines
-
-##
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/287682cc-2e34-4eb3-90c5-ef22ac3d7dcc" />
